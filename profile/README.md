@@ -1,5 +1,3 @@
-##### [README.md](https://github.com/SocialMediaAutomationPlatform/.github.git)
-
 ### Onboarding for a new member
 #### Contact tongochung1809@gmail.com on Slack for your Atlassian account. Next, follow these steps:
 1. Access OpenVPN Non Prod
